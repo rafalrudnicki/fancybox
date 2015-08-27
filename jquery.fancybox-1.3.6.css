@@ -62,6 +62,9 @@
 	z-index: 1101;
 	outline: none;
 	display: none;
+}
+
+#fancybox-wrap, #fancybox-wrap *{
 	-moz-box-sizing: content-box;
 	-webkit-box-sizing: content-box;
     -o-box-sizing: content-box;
